@@ -1,0 +1,37 @@
+body{
+    background-color: #24353F;
+}
+.container{
+    box-shadow: 0px 0px 25px #000000  ;
+}
+h1{
+    color: #17a2b8;
+}
+input[type="text"]{
+    background-color: #24353F;
+    color: #B6B6B6;
+}
+
+
+input[type="text"]::placeholder{
+    background-color: #24353F;
+    color: #B6B6B6;
+}
+
+input[type="text"]:focus{
+    background-color: #24353F;
+    color: #B6B6B6;
+}
+
+input[type="password"]{
+    background-color: #24353F;
+    color: #B6B6B6;
+}
+input[type="password"]::placeholder{
+    background-color: #24353F;
+    color: #B6B6B6;
+}
+input[type="password"]:focus{
+    background-color: #24353F;
+    color: #B6B6B6;
+}
